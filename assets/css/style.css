@@ -160,7 +160,7 @@ a:focus,
 
 .text-body>a {
     text-decoration: underline;
-    color: #212529;
+   color: #212529;
 }
 
 ol,
@@ -1033,7 +1033,7 @@ header {
     top: 0;
     padding: 20px 25px;
     pointer-events: initial;
-    z-index: 2;
+    z-index: 1;
 }
 
 .navbar-expand.relative {
@@ -1110,7 +1110,7 @@ header {
     color: #2c2e30;
     padding: 0.625rem 1.25rem;
 }
-
+    
 .dropdown .dropdown-menu {
     display: block;
     min-width: 14.375rem;
